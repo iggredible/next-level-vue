@@ -231,6 +231,24 @@
       "date": "",
       "time": "5:00",
       "attendees": []
+    },
+    {
+      "id": 7709914,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "adf",
+      "description": "asdf",
+      "location": "asdf",
+      "date": "2019-12-04T19:24:00.000Z",
+      "time": "18:00",
+      "attendees": []
     }
   ]
 }
